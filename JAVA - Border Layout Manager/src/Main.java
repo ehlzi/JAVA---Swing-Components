@@ -26,6 +26,7 @@ public class Main {
         JPanel panel3 = new JPanel();
         JPanel panel4 = new JPanel();
         JPanel panel5 = new JPanel();
+        JPanel panel6 = new JPanel();
 
         panel1.setBackground(Color.red);
         panel2.setBackground(Color.green);
