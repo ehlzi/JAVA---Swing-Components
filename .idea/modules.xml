@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA - Border Layout Manager/JAVA - Border Layout Manager.iml" filepath="$PROJECT_DIR$/JAVA - Border Layout Manager/JAVA - Border Layout Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA - Buttons/JAVA - Buttons.iml" filepath="$PROJECT_DIR$/JAVA - Buttons/JAVA - Buttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA - Flow Layout Manager/JAVA - Flow Layout Manager.iml" filepath="$PROJECT_DIR$/JAVA - Flow Layout Manager/JAVA - Flow Layout Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA - Frames 1/JAVA - Frames 1.iml" filepath="$PROJECT_DIR$/JAVA - Frames 1/JAVA - Frames 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA - Frames 2/JAVA - Frames 2.iml" filepath="$PROJECT_DIR$/JAVA - Frames 2/JAVA - Frames 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA - Grid Layout Manager/JAVA - Grid Layout Manager.iml" filepath="$PROJECT_DIR$/JAVA - Grid Layout Manager/JAVA - Grid Layout Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA - JLayered Pane/JAVA - JLayered Pane.iml" filepath="$PROJECT_DIR$/JAVA - JLayered Pane/JAVA - JLayered Pane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA - Labels/JAVA - Labels.iml" filepath="$PROJECT_DIR$/JAVA - Labels/JAVA - Labels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA - New Window/JAVA - New Window.iml" filepath="$PROJECT_DIR$/JAVA - New Window/JAVA - New Window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA - Panels/JAVA - Panels.iml" filepath="$PROJECT_DIR$/JAVA - Panels/JAVA - Panels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA - Swing Components.iml" filepath="$PROJECT_DIR$/.idea/JAVA - Swing Components.iml" />
+    </modules>
+  </component>
+</project>
